@@ -1,4 +1,4 @@
-Olá eu sou o Lucas desenvolvedor back-end por enquanto e bem vindo ao meu GitHub! 
+Olá eu sou o Lucas desenvolvedor back-end e bem vindo ao meu GitHub! 
 
 
 - 🔭 Hoje eu trabalho com back-end
