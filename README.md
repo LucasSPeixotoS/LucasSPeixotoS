@@ -2,7 +2,7 @@ Olá eu sou o Lucas desenvolvedor back-end e bem vindo ao meu GitHub!
 
 
 - 🔭 Hoje eu trabalho com back-end
-- 🌱 Estudando Java e SQL
+- 🌱 Estudando Java com Spring boot e SQL
 - 🍔 Por último eu amo hambúrguer!
 
 <div align="center">
